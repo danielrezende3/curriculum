@@ -1,0 +1,15 @@
+{
+    "[typst]": {
+        "editor.formatOnSave": true
+    },
+    "tinymist.lint.enabled": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "*.fossil": true,
+        "*.fslckout": true
+    }
+}
