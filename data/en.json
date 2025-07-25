@@ -1,0 +1,66 @@
+{
+    "locale": "pt",
+    "summary": {
+        "header": "Summary",
+        "body": "Undergraduate in Computer Engineering at UFS and working as a PIBIC scientific initiation student. I critically analyze requirements to ensure real value for projects, prioritize solid deliverables, and take care of continuous delivery. I base my technical decisions on data analysis and apply software engineering methods to increase productivity and generate lasting contributions."
+    },
+    "education": {
+        "header": "Education",
+        "institution": "Federal University of Sergipe, UFS",
+        "degree": "Bachelor's in Computer Engineering",
+        "period": "2020 - 2026"
+    },
+    "sections": [
+        {
+            "name": "Experience",
+            "items": [
+                {
+                    "role": "PIBIC Scientific Initiation Student, UFS",
+                    "period": "July 2023 - Present",
+                    "bullet_points": [
+                        "Created a dataset of 500 obfuscated and original codes through modeling and implementation, achieving recall and precision metrics to evaluate plagiarism detection tools.",
+                        "Built a SvelteKit interface for manual comparison of Mermaid diagrams, developing custom components and making source code comparison faster and more intuitive.",
+                        "Developed a Python converter using Tree-sitter, generating reversible JSON with the logical tree that isolates essential information and allows comparison of implementations in C and Python."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Projects",
+            "items": [
+                {
+                    "role": "LLM Router Module",
+                    "period": "February - March 2025",
+                    "bullet_points": [
+                        "With the goal of orchestrating multiple AI APIs and optimizing call costs, I implemented routing logic with Langchain and conversation memory in PostgreSQL, optimizing API call costs by up to 25%. Achieved 2nd place at the ChipLabs Hackathon."
+                    ]
+                },
+                {
+                    "role": "AvisaMed! System",
+                    "period": "February - March 2025",
+                    "bullet_points": [
+                        "Led the team, designed the application prototype in Figma, and implemented the front-end in SvelteKit 5, delivering a responsive and accessible interface for the University Hospital's incident management system."
+                    ]
+                },
+                {
+                    "role": "SBC Programming Marathon Training",
+                    "period": "July 2025 - present",
+                    "bullet_points": [
+                        "Lead and participate in weekly training sessions with support from university professors, aiming for qualification in the first phase of the SBC Programming Marathon."
+                    ]
+                }
+            ]
+        }
+    ],
+    "technologies": {
+        "header": "Technologies",
+        "title": {
+            "prog_langs": "Programming languages",
+            "tools": "Tools",
+            "langs": "Languages"
+        },
+        "body": {
+            "langs": "Portuguese (native), English (fluent)."
+        }
+    }
+}

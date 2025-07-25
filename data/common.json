@@ -1,0 +1,12 @@
+{
+    "technologies": {
+        "title": {
+            "frameworks": "Frameworks"
+        },
+        "body": {
+            "prog_langs": "Python, JavaScript, TypeScript, HTML/CSS, C, SQL.",
+            "frameworks": "FastAPI, React, SvelteKit, Tailwind, LangChain, Tree-sitter, ANTLR.",
+            "tools": "Git, GitHub, Docker, VS Code, Figma, PostgreSQL."
+        }
+    }
+}

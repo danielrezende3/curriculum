@@ -1,0 +1,66 @@
+{
+    "locale": "pt",
+    "summary": {
+        "header": "Resumo",
+        "body": "Graduando em Engenharia da Computação na UFS e atuando como Iniciante científico PIBIC. Analiso criticamente requisitos para garantir valor real aos projetos, priorizo entregáveis sólidos e cuido da manutenção contínua. Baseio minhas decisões técnicas em análises com dados e aplico métodos de engenharia de software para aumentar a produtividade e gerar contribuições duradouras."
+    },
+    "education": {
+        "header": "Educação",
+        "institution": "Universidade Federal de Sergipe, UFS",
+        "degree": "Bacharelado em Engenharia da Computação",
+        "period": "2020 - 2026"
+    },
+    "sections": [
+        {
+            "name": "Experiência",
+            "items": [
+                {
+                    "role": "Iniciante científico PIBIC, UFS",
+                    "period": "Julho 2023 - Presente",
+                    "bullet_points": [
+                        "Fiz um dataset de 500 códigos obfuscados e originais através de modelagem e implementação, chegando a métricas de recall e precision para avaliar ferramentas de detecção de plágio.",
+                        "Fiz uma interface em SvelteKit para comparação manual de diagramas Mermaid, desenvolvendo componentes personalizados e tornando a comparação de código-fonte mais ágil e intuitiva.",
+                        "Desenvolvi um conversor em Python utilizando Tree-sitter, gerando JSON reversível com a árvore lógica que isola informações essenciais e permite comparar implementações em C e Python."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Projetos",
+            "items": [
+                {
+                    "role": "Módulo roteador de LLM's",
+                    "period": "Fevereiro - Março 2025",
+                    "bullet_points": [
+                        "Com o objetivo de orquestrar múltiplas API’s de IA e otimizar custo das chamadas, implementei lógica de roteamento com Langchain e memória de conversas em PostgreSQL, otimizando custos de chamadas de API em até 25%. Assim conquistando 2º lugar no Hackathon ChipLabs."
+                    ]
+                },
+                {
+                    "role": "Sistema AvisaMed!",
+                    "period": "Fevereiro - Março 2025",
+                    "bullet_points": [
+                        "Liderei a equipe, concebi o protótipo da aplicação no Figma e implementei o front-end em SvelteKit 5, entregando uma interface responsiva e acessível para o sistema de gestão de ocorrências do Hospital Universitário."
+                    ]
+                },
+                {
+                    "role": "Treinamento de Maratona SBC de Programação",
+                    "period": "Julho 2025 - presente",
+                    "bullet_points": [
+                        "Lidero e participo de treinamentos semanais com apoio de professores da universidade, visando classificação na primeira fase da Maratona SBC de Programação."
+                    ]
+                }
+            ]
+        }
+    ],
+    "technologies": {
+        "header": "Tecnologias",
+        "title": {
+            "prog_langs": "Linguagens de Programação",
+            "tools": "Ferramentas",
+            "langs": "Idiomas"
+        },
+        "body": {
+            "langs": "Português (nativo), inglês (fluente)."
+        }
+    }
+}
