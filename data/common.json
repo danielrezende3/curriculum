@@ -4,8 +4,8 @@
             "frameworks": "Frameworks"
         },
         "body": {
-            "prog_langs": "Python, JavaScript, TypeScript, HTML/CSS, C, SQL.",
-            "frameworks": "FastAPI, React, SvelteKit, Tailwind, LangChain, Tree-sitter, ANTLR.",
+            "prog_langs": "Python, JavaScript, TypeScript, HTML/CSS, C, C++, SQL.",
+            "frameworks": "FastAPI, React, NextJS, NestJS, Tailwind, LangChain.",
             "tools": "Git, GitHub, Docker, VS Code, Figma, PostgreSQL."
         }
     }

@@ -16,7 +16,7 @@
             "items": [
                 {
                     "role": "Iniciante científico PIBIC, UFS",
-                    "period": "Julho 2023 - Presente",
+                    "period": "Julho 2023 - Julho 2025",
                     "bullet_points": [
                         "Fiz um dataset de 500 códigos obfuscados e originais através de modelagem e implementação, chegando a métricas de recall e precision para avaliar ferramentas de detecção de plágio.",
                         "Fiz uma interface em SvelteKit para comparação manual de diagramas Mermaid, desenvolvendo componentes personalizados e tornando a comparação de código-fonte mais ágil e intuitiva.",
@@ -29,6 +29,13 @@
             "name": "Projetos",
             "items": [
                 {
+                    "role": "Systema SIEHP",
+                    "period": "Março 2025 - presente",
+                    "bullet_points": [
+                        "Participo domo desenvolvedor fullstack do Sistema Integrado de Ensino à Histologia e Patologia (SIEHP) em NextJS e NestJS, utilizando técnicas de testes unitários para garantir a conforimidade das regras de negócio."
+                    ]
+                },
+                {
                     "role": "Módulo roteador de LLM's",
                     "period": "Fevereiro - Março 2025",
                     "bullet_points": [
@@ -36,17 +43,11 @@
                     ]
                 },
                 {
-                    "role": "Sistema AvisaMed!",
-                    "period": "Fevereiro - Março 2025",
-                    "bullet_points": [
-                        "Liderei a equipe, concebi o protótipo da aplicação no Figma e implementei o front-end em SvelteKit 5, entregando uma interface responsiva e acessível para o sistema de gestão de ocorrências do Hospital Universitário."
-                    ]
-                },
-                {
                     "role": "Treinamento de Maratona SBC de Programação",
                     "period": "Julho 2025 - presente",
                     "bullet_points": [
-                        "Lidero e participo de treinamentos semanais com apoio de professores da universidade, visando classificação na primeira fase da Maratona SBC de Programação."
+                        "Lidero e participo de treinamentos semanais com apoio de professores da universidade, visando classificação na primeira fase da Maratona SBC de Programação.",
+                        "Consegui com que um time de 3 pessoas se classificasse para a fase final em 2025."
                     ]
                 }
             ]

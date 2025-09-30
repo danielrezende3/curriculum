@@ -16,7 +16,7 @@
             "items": [
                 {
                     "role": "PIBIC Scientific Initiation Student, UFS",
-                    "period": "July 2023 - Present",
+                    "period": "July 2023 - July 2025",
                     "bullet_points": [
                         "Created a dataset of 500 obfuscated and original codes through modeling and implementation, achieving recall and precision metrics to evaluate plagiarism detection tools.",
                         "Built a SvelteKit interface for manual comparison of Mermaid diagrams, developing custom components and making source code comparison faster and more intuitive.",
@@ -36,17 +36,18 @@
                     ]
                 },
                 {
-                    "role": "AvisaMed! System",
-                    "period": "February - March 2025",
+                    "role": "SIEHP System",
+                    "period": "March 2025 - present",
                     "bullet_points": [
-                        "Led the team, designed the application prototype in Figma, and implemented the front-end in SvelteKit 5, delivering a responsive and accessible interface for the University Hospital's incident management system."
+                        "Participate as a fullstack developer in the Integrated System for Teaching Histology and Pathology (SIEHP) in NextJS and NestJS, using unit testing techniques to ensure compliance with business rules."
                     ]
                 },
                 {
                     "role": "SBC Programming Marathon Training",
                     "period": "July 2025 - present",
                     "bullet_points": [
-                        "Lead and participate in weekly training sessions with support from university professors, aiming for qualification in the first phase of the SBC Programming Marathon."
+                        "Lead and participate in weekly training sessions with support from university professors, aiming for qualification in the first phase of the SBC Programming Marathon.",
+                        "Successfully helped a team of 3 people qualify for the final phase in 2025."
                     ]
                 }
             ]
