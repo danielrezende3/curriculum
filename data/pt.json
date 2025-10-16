@@ -2,7 +2,7 @@
     "locale": "pt",
     "summary": {
         "header": "Resumo",
-        "body": "Graduando em Engenharia da Computação na UFS e trabalehi como Iniciante científico PIBIC. Analiso criticamente requisitos para garantir valor real aos projetos, priorizo entregáveis sólidos e cuido da manutenção contínua. Baseio minhas decisões técnicas em análises com dados e aplico métodos de engenharia de software para aumentar a produtividade e gerar contribuições duradouras."
+        "body": "Graduando em Engenharia da Computação na UFS e trabalhei como Iniciante científico PIBIC. Baseio minhas decisões técnicas em análises com dados e aplico métodos de engenharia de software para aumentar a produtividade e gerar contribuições duradouras."
     },
     "education": {
         "header": "Educação",
@@ -19,7 +19,7 @@
                     "period": "Julho 2023 - Julho 2025",
                     "bullet_points": [
                         "Fiz um dataset de 500 códigos obfuscados e originais através de modelagem e implementação, chegando a métricas de recall e precision para avaliar ferramentas de detecção de plágio.",
-                        "Fiz uma interface em SvelteKit para comparação manual de diagramas Mermaid, desenvolvendo componentes personalizados e tornando a comparação de código-fonte mais ágil e intuitiva.",
+                        "Fiz uma interface em Svelte para comparação manual de diagramas Mermaid, desenvolvendo componentes personalizados e tornando a comparação de código-fonte mais ágil e intuitiva.",
                         "Desenvolvi um conversor em Python utilizando Tree-sitter, gerando JSON reversível com a árvore lógica que isola informações essenciais e permite comparar implementações em C e Python."
                     ]
                 }
@@ -29,7 +29,7 @@
             "name": "Projetos",
             "items": [
                 {
-                    "role": "Systema SIEHP",
+                    "role": "Sistema SIEHP",
                     "period": "Março 2025 - presente",
                     "bullet_points": [
                         "Participo domo desenvolvedor fullstack do Sistema Integrado de Ensino à Histologia e Patologia (SIEHP) em NextJS e NestJS, utilizando técnicas de testes unitários para garantir a conforimidade das regras de negócio."
@@ -39,7 +39,7 @@
                     "role": "Módulo roteador de LLM's",
                     "period": "Fevereiro - Março 2025",
                     "bullet_points": [
-                        "Com o objetivo de orquestrar múltiplas API’s de IA e otimizar custo das chamadas, implementei lógica de roteamento com Langchain e memória de conversas em PostgreSQL, otimizando custos de chamadas de API em até 25%. Assim conquistando 2º lugar no Hackathon ChipLabs."
+                        "Com o objetivo de orquestrar múltiplas API’s de IA e otimizar custo das chamadas, implementei em FastApi a lógica de roteamento com Langchain e memória de conversas em PostgreSQL, otimizando custos de chamadas de API em até 25%. Assim conquistando 2º lugar no Hackathon ChipLabs."
                     ]
                 },
                 {
@@ -47,7 +47,7 @@
                     "period": "Julho 2025 - presente",
                     "bullet_points": [
                         "Lidero e participo de treinamentos semanais com apoio de professores da universidade, visando classificação na primeira fase da Maratona SBC de Programação.",
-                        "Consegui com que um time de 3 pessoas se classificasse para a fase final em 2025."
+                        "Consegui a classificação de um time para a fase final em 2025."
                     ]
                 }
             ]
