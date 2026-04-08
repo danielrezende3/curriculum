@@ -1,9 +1,10 @@
 // Loading data
-#let locale = sys.inputs.at("locale", default: "pt")
+#let locale = sys.inputs.at("locale", default: "en")
 #let lcl_data = json("data/" + locale + ".json")
 #let cmn_data = json("data/common.json")
 
 // Setting the structure
+#set page(margin: 1cm)
 #set text(hyphenate: auto, costs: (hyphenation: 50%))
 #set par(justify: true)
 #show heading: it => stack(spacing: 0.5%, text(it), line(length: 100%, stroke: 0.5pt))

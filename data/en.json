@@ -8,7 +8,7 @@
         "header": "Education",
         "institution": "Federal University of Sergipe, UFS",
         "degree": "Bachelor's in Computer Engineering",
-        "period": "Expected 2027"
+        "period": "january 2020 - january 2027"
     },
     "sections": [
         {
@@ -18,19 +18,18 @@
                     "role": "Full Stack Developer, Ajudai",
                     "period": "December 2025 - March 2026",
                     "bullet_points": [
-                        "Built a React Native (Expo) and Spring Boot mobile MVP for pilot launch, implementing five core flows: authentication, campaign creation, donations, donation history, and voucher creation/recovery.",
-                        "Reduced repetitive manual validation effort, measured by automated coverage of 63 end-to-end scenarios across core product flows, by implementing E2E tests with Maestro and WireMock and incorporating new flows into the regression suite.",
-                        "Reduced operational risk in the payment flow, measured by eliminating dependency on a single provider, by integrating multiple payment providers into the system.",
-                        "Reduced release and deployment effort, measured by cutting the process from about 1 hour of manual work to a 15-minute automated pipeline, by setting up CI/CD with GitHub Actions and Terraform-managed AWS infrastructure."
+                        "Built a React Native (Expo) and Spring Boot mobile MVP for pilot launch, delivering five core flows: authentication, campaign creation, donations, donation history, and voucher creation/recovery.",
+                        "Automated regression validation across core product flows with Maestro and WireMock, covering 63 end-to-end scenarios and improving release stability and troubleshooting efficiency.",
+                        "Improved payment-flow reliability and system resilience by integrating multiple payment providers, removing dependency on a single provider and reducing operational risk.",
+                        "Accelerated releases and deployment reliability by implementing CI/CD with GitHub Actions and Terraform-managed AWS infrastructure, reducing a 1-hour manual process to a 15-minute automated pipeline."
                     ]
                 },
                 {
                     "role": "PIBIC Scientific Initiation Student, UFS",
                     "period": "July 2023 - August 2025",
                     "bullet_points": [
-                        "Built a plagiarism-detection evaluation dataset, measured by 500 original source codes, 250 in C and 250 in Python, plus obfuscated versions, by modeling the dataset and generating transformed samples with open-source obfuscation tools.",
-                        "Reduced manual structural analysis effort, measured by automated generation of reversible syntax-tree JSON representations, by implementing a Python-based Tree-sitter converter for code comparison workflows.",
-                        "Improved same-language plagiarism detection performance, measured by an 86.36% F1-score for Python and a 68.63% F1-score for C, by applying comparison algorithms to the generated JSON representations."
+                        "Built a plagiarism-detection evaluation dataset for reliable benchmarking, comprising 500 original source codes (250 in C and 250 in Python) plus obfuscated versions generated through dataset modeling and open-source obfuscation tools.",
+                        "Leveraged this dataset to implement a Python-based Tree-sitter converter that generates reversible syntax-tree JSON representations for automated code comparison, achieving same-language plagiarism-detection F1-scores of 86.36% for Python and 68.63% for C."
                     ]
                 }
             ]
@@ -39,17 +38,17 @@
             "name": "Projects",
             "items": [
                 {
-                    "role": "SBC Programming Marathon Training",
-                    "period": "July 2025 - present",
-                    "bullet_points": [
-                        "Served as a senior-member coach during training, helping the team qualify for the 2025 first phase and place 280th out of 984 teams."
-                    ]
-                },
-                {
                     "role": "LLM Router Module",
                     "period": "February - March 2025",
                     "bullet_points": [
-                        "Built an LLM routing module for multiple AI APIs using LangChain and PostgreSQL as a vector database, reducing inference cost by routing prompts to the smallest adequate model instead of a fixed default; won 2nd place at the ChipLabs Hackathon."
+                        "Won 2nd place at the ChipLabs Hackathon for building an LLM routing module for multiple AI APIs using LangChain and PostgreSQL as a vector database, reducing inference cost by routing prompts to the smallest adequate model instead of a fixed default."
+                    ]
+                },
+                {
+                    "role": "SBC Programming Marathon Training",
+                    "period": "July 2025 - present",
+                    "bullet_points": [
+                        "Achieved 280th place out of 984 teams in the SBC 2025 Programming Marathon (first phase) by coaching the team through training and qualification"
                     ]
                 }
             ]
