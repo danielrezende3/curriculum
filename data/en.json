@@ -2,25 +2,35 @@
     "locale": "pt",
     "summary": {
         "header": "Summary",
-        "body": "Undergraduate in Computer Engineering at UFS and worked as a PIBIC scientific initiation student. I critically analyze requirements to ensure real value for projects, prioritize solid deliverables, and take care of continuous delivery. I base my technical decisions on data analysis and apply software engineering methods to increase productivity and generate lasting contributions."
+        "body": "Computer Engineering undergraduate at UFS with experience in full-stack development, test automation, CI/CD, and applied research. I build software with focus on maintainability, delivery quality, and measurable impact, combining product validation with engineering practices."
     },
     "education": {
         "header": "Education",
         "institution": "Federal University of Sergipe, UFS",
         "degree": "Bachelor's in Computer Engineering",
-        "period": "2020 - 2026"
+        "period": "Expected 2027"
     },
     "sections": [
         {
             "name": "Experience",
             "items": [
                 {
-                    "role": "PIBIC Scientific Initiation Student, UFS",
-                    "period": "July 2023 - July 2025",
+                    "role": "Full Stack Developer, Ajudai",
+                    "period": "December 2025 - March 2026",
                     "bullet_points": [
-                        "Created a dataset of 500 obfuscated and original codes through modeling and implementation, achieving recall and precision metrics to evaluate plagiarism detection tools.",
-                        "Built a SvelteKit interface for manual comparison of Mermaid diagrams, developing custom components and making source code comparison faster and more intuitive.",
-                        "Developed a Python converter using Tree-sitter, generating reversible JSON with the logical tree that isolates essential information and allows comparison of implementations in C and Python."
+                        "Built a React Native (Expo) and Spring Boot mobile MVP for pilot launch, implementing five core flows: authentication, campaign creation, donations, donation history, and voucher creation/recovery.",
+                        "Reduced repetitive manual validation effort, measured by automated coverage of 63 end-to-end scenarios across core product flows, by implementing E2E tests with Maestro and WireMock and incorporating new flows into the regression suite.",
+                        "Reduced operational risk in the payment flow, measured by eliminating dependency on a single provider, by integrating multiple payment providers into the system.",
+                        "Reduced release and deployment effort, measured by cutting the process from about 1 hour of manual work to a 15-minute automated pipeline, by setting up CI/CD with GitHub Actions and Terraform-managed AWS infrastructure."
+                    ]
+                },
+                {
+                    "role": "PIBIC Scientific Initiation Student, UFS",
+                    "period": "July 2023 - August 2025",
+                    "bullet_points": [
+                        "Built a plagiarism-detection evaluation dataset, measured by 500 original source codes, 250 in C and 250 in Python, plus obfuscated versions, by modeling the dataset and generating transformed samples with open-source obfuscation tools.",
+                        "Reduced manual structural analysis effort, measured by automated generation of reversible syntax-tree JSON representations, by implementing a Python-based Tree-sitter converter for code comparison workflows.",
+                        "Improved same-language plagiarism detection performance, measured by an 86.36% F1-score for Python and a 68.63% F1-score for C, by applying comparison algorithms to the generated JSON representations."
                     ]
                 }
             ]
@@ -29,25 +39,17 @@
             "name": "Projects",
             "items": [
                 {
-                    "role": "LLM Router Module",
-                    "period": "February - March 2025",
-                    "bullet_points": [
-                        "With the goal of orchestrating multiple AI APIs and optimizing call costs, I implemented routing logic with Langchain and conversation memory in PostgreSQL, optimizing API call costs by up to 25%. Achieved 2nd place at the ChipLabs Hackathon."
-                    ]
-                },
-                {
-                    "role": "SIEHP System",
-                    "period": "March 2025 - present",
-                    "bullet_points": [
-                        "Participate as a fullstack developer in the Integrated System for Teaching Histology and Pathology (SIEHP) in NextJS and NestJS, using unit testing techniques to ensure compliance with business rules."
-                    ]
-                },
-                {
                     "role": "SBC Programming Marathon Training",
                     "period": "July 2025 - present",
                     "bullet_points": [
-                        "Lead and participate in weekly training sessions with support from university professors, aiming for qualification in the first phase of the SBC Programming Marathon.",
-                        "Successfully helped a team of 3 people qualify for the final phase in 2025."
+                        "Served as a senior-member coach during training, helping the team qualify for the 2025 first phase and place 280th out of 984 teams."
+                    ]
+                },
+                {
+                    "role": "LLM Router Module",
+                    "period": "February - March 2025",
+                    "bullet_points": [
+                        "Built an LLM routing module for multiple AI APIs using LangChain and PostgreSQL as a vector database, reducing inference cost by routing prompts to the smallest adequate model instead of a fixed default; won 2nd place at the ChipLabs Hackathon."
                     ]
                 }
             ]

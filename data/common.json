@@ -5,8 +5,8 @@
         },
         "body": {
             "prog_langs": "Python, JavaScript, TypeScript, HTML/CSS, C, C++, SQL.",
-            "frameworks": "FastAPI, React, NextJS, NestJS, Tailwind, LangChain.",
-            "tools": "Git, GitHub, Docker, VS Code, Figma, PostgreSQL."
+            "frameworks": "Expo, React Native, React, Next.js, Nest.js, Spring Boot, FastAPI, Tailwind, LangChain.",
+            "tools": "Git, GitHub Actions, Docker, Terraform, VS Code, Figma, PostgreSQL."
         }
     }
 }
