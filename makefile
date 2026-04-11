@@ -12,10 +12,10 @@ gen-en: $(EN_PDF)
 
 gen-pt: $(PT_PDF)
 
-$(EN_PDF): $(CURRICULUM)
+$(EN_PDF): $(CURRICULUM) data/en.json data/common.json
 	typst compile $(CURRICULUM) $(EN_PDF) --input locale=en
 
-$(PT_PDF): $(CURRICULUM)
+$(PT_PDF): $(CURRICULUM) data/pt.json data/common.json
 	typst compile $(CURRICULUM) $(PT_PDF)
 
 clean:
