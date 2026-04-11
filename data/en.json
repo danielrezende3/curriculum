@@ -18,16 +18,16 @@
                     "role": "Full Stack Developer, Ajudai",
                     "period": "December 2025 - March 2026",
                     "bullet_points": [
-                        "Built a React Native (Expo) and Spring Boot mobile MVP for pilot launch, delivering five core flows (authentication, campaign creation, donations, donation history, and voucher creation/recovery), and automated 63 end-to-end regression scenarios for these flows using Maestro (UI automation) and WireMock (API mocking), improving release stability and troubleshooting efficiency.",
+                        "Built a React Native (Expo) and Spring Boot mobile MVP for pilot launch, delivering five core flows (authentication, campaign creation, donations, donation history, and voucher creation/recovery), and automated 63 end-to-end regression scenarios for these flows using Maestro for UI automation and WireMock for API mocking, improving release stability and troubleshooting efficiency.",
                         "Eliminated single-provider dependency in the payment flow by integrating multiple providers with failover, preventing outages that previously blocked all transactions for over 4 days.",
-                        "Accelerated releases and deployment reliability by implementing CI/CD with GitHub Actions and Terraform-managed AWS infrastructure, reducing a 1-hour manual process to a 15-minute automated pipeline."
+                        "Reduced deployment time by 75% (from 1 hour to 15 minutes), saving ~1.5 SWE/h per week across 2 weekly releases, by implementing CI/CD with GitHub Actions and Terraform-managed AWS infrastructure."
                     ]
                 },
                 {
                     "role": "PIBIC Scientific Initiation Student, UFS",
                     "period": "July 2023 - August 2025",
                     "bullet_points": [
-                        "Built a plagiarism-detection evaluation dataset for reliable benchmarking, comprising 500 original source codes (250 in C and 250 in Python) plus obfuscated versions generated through dataset modeling and open-source obfuscation tools.",
+                        "Built a plagiarism-detection benchmark dataset by scraping Codeforces problems and solutions via a custom Python pipeline with parsing and retry logic, addressing the lack of reliable validation data in the literature; assembled 500 solutions to distinct problems and generated obfuscated variants.",
                         "Implemented a Python-based Tree-sitter converter to generate reversible syntax-tree JSON representations for automated code comparison, achieving same-language plagiarism-detection F1-scores of 86.36% for Python and 68.63% for C using the dataset."
                     ]
                 }
@@ -61,7 +61,7 @@
             "langs": "Languages"
         },
         "body": {
-            "langs": "Portuguese (native), English (fluent)."
+            "langs": "Portuguese (native), English (C2), French (A2)"
         }
     }
 }

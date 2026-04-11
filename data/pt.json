@@ -2,25 +2,33 @@
     "locale": "pt",
     "summary": {
         "header": "Resumo",
-        "body": "Graduando em Engenharia da Computação na UFS e trabalhei como Iniciante científico PIBIC. Baseio minhas decisões técnicas em análises com dados e aplico métodos de engenharia de software para aumentar a produtividade e gerar contribuições duradouras."
+        "body": "Graduando em Engenharia da Computação pela UFS com experiência em desenvolvimento full-stack, automação de testes, CI/CD e pesquisa aplicada. Desenvolvo software com foco em manutenibilidade, qualidade de entrega e impacto mensurável, combinando validação de produto com práticas de engenharia."
     },
     "education": {
         "header": "Educação",
         "institution": "Universidade Federal de Sergipe, UFS",
         "degree": "Bacharelado em Engenharia da Computação",
-        "period": "2020 - 2026"
+        "period": "Janeiro de 2020 - Janeiro de 2027"
     },
     "sections": [
         {
             "name": "Experiência",
             "items": [
                 {
-                    "role": "Iniciante científico PIBIC, UFS",
-                    "period": "Julho 2023 - Julho 2025",
+                    "role": "Desenvolvedor Full Stack, Ajudai",
+                    "period": "Dezembro de 2025 - Março de 2026",
                     "bullet_points": [
-                        "Fiz um dataset de 500 códigos obfuscados e originais através de modelagem e implementação, chegando a métricas de recall e precision para avaliar ferramentas de detecção de plágio.",
-                        "Fiz uma interface em Svelte para comparação manual de diagramas Mermaid, desenvolvendo componentes personalizados e tornando a comparação de código-fonte mais ágil e intuitiva.",
-                        "Desenvolvi um conversor em Python utilizando Tree-sitter, gerando JSON reversível com a árvore lógica que isola informações essenciais e permite comparar implementações em C e Python."
+                        "Desenvolvi um MVP mobile com React Native (Expo) e Spring Boot para lançamento piloto, entregando cinco fluxos principais (autenticação, criação de campanhas, doações, histórico de doações e criação/recuperação de vouchers), e automatizei 63 cenários de regressão end-to-end para esses fluxos usando Maestro para automação de UI e WireMock para mock de APIs, melhorando a estabilidade das releases e a eficiência na identificação de problemas.",
+                        "Eliminei o ponto único de falha no fluxo de pagamento ao projetar integração com múltiplos provedores e failover, mantendo ~99% de disponibilidade durante falhas de um provedor que antes bloqueavam 100% das transações.",
+                        "Reduzi o tempo de deploy de 1 hora para 15 minutos, economizando ~1,5 SWE/h por semana em 2 releases semanais, ao implementar CI/CD com GitHub Actions e infraestrutura AWS gerenciada com Terraform."
+                    ]
+                },
+                {
+                    "role": "Iniciante científico PIBIC, UFS",
+                    "period": "Julho 2023 - Agosto 2025",
+                    "bullet_points": [
+                        "Construí um dataset de benchmark para detecção de plágio ao extrair problemas e soluções do Codeforces via um pipeline em Python com parsing e lógica de retry, suprindo a falta de dados confiáveis para validação na literatura; reuni 500 soluções de problemas distintos e gerei variantes ofuscadas.",
+                        "Implementei um conversor em Python baseado em Tree-sitter para gerar representações JSON reversíveis da AST's para comparação automática de código, alcançando F1-score de 86,36% para Python e 68,63% para C na detecção de plágio na mesma linguagem usando o dataset."
                     ]
                 }
             ]
@@ -29,25 +37,17 @@
             "name": "Projetos",
             "items": [
                 {
-                    "role": "Sistema SIEHP",
-                    "period": "Março 2025 - presente",
+                    "role": "Módulo de Roteamento de LLM",
+                    "period": "Fevereiro - Março de 2025",
                     "bullet_points": [
-                        "Participo domo desenvolvedor fullstack do Sistema Integrado de Ensino à Histologia e Patologia (SIEHP) em NextJS e NestJS, utilizando técnicas de testes unitários para garantir a conforimidade das regras de negócio."
+                        "Conquistei o 2º lugar no Hackathon da ChipLabs ao desenvolver um módulo de roteamento de LLM para múltiplas APIs de IA usando LangChain, FastAPI e PostgreSQL como banco vetorial, reduzindo o custo de inferência ao direcionar prompts para o menor modelo adequado em vez de um modelo fixo padrão."
                     ]
                 },
                 {
-                    "role": "Módulo roteador de LLM's",
-                    "period": "Fevereiro - Março 2025",
+                    "role": "Treinamento para Maratona de Programação SBC",
+                    "period": "Julho de 2025 - presente",
                     "bullet_points": [
-                        "Com o objetivo de orquestrar múltiplas API’s de IA e otimizar custo das chamadas, implementei em FastApi a lógica de roteamento com Langchain e memória de conversas em PostgreSQL, otimizando custos de chamadas de API em até 25%. Assim conquistando 2º lugar no Hackathon ChipLabs."
-                    ]
-                },
-                {
-                    "role": "Treinamento de Maratona SBC de Programação",
-                    "period": "Julho 2025 - presente",
-                    "bullet_points": [
-                        "Lidero e participo de treinamentos semanais com apoio de professores da universidade, visando classificação na primeira fase da Maratona SBC de Programação.",
-                        "Consegui a classificação de um time para a fase final em 2025."
+                        "Alcancei a 63ª posição entre 984 equipes na final da Maratona de Programação SBC 2025 ao orientar o time durante o treinamento e a qualificação."
                     ]
                 }
             ]
@@ -61,7 +61,7 @@
             "langs": "Idiomas"
         },
         "body": {
-            "langs": "Português nativo, inglês avançado."
+            "langs": "Português nativo, inglês (C2), Francês (A2)."
         }
     }
 }
