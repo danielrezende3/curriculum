@@ -1,11 +1,13 @@
 {
     "technologies": {
         "title": {
-            "frameworks": "Frameworks"
+            "frontend_frameworks": "Frontend frameworks",
+            "backend_frameworks": "Backend frameworks"
         },
         "body": {
             "prog_langs": "Python, JavaScript, TypeScript, HTML/CSS, C, C++, SQL.",
-            "frameworks": "Expo, React Native, React, Next.js, Nest.js, Spring Boot, FastAPI, Tailwind, LangChain.",
+            "frontend_frameworks": "Expo, React Native, React, Next.js, Tailwind.",
+            "backend_frameworks": "Nest.js, Spring Boot, FastAPI, LangChain.",
             "tools": "Git, GitHub Actions, Docker, Terraform, VS Code, Figma, PostgreSQL."
         }
     }

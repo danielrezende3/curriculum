@@ -83,6 +83,7 @@ _ #lcl_data.education.degree _
 = #lcl_data.technologies.header
 
 - *#lcl_data.technologies.title.prog_langs*: #cmn_data.technologies.body.prog_langs
-- *#cmn_data.technologies.title.frameworks*: #cmn_data.technologies.body.frameworks
+- *#cmn_data.technologies.title.frontend_frameworks*: #cmn_data.technologies.body.frontend_frameworks
+- *#cmn_data.technologies.title.backend_frameworks*: #cmn_data.technologies.body.backend_frameworks
 - *#lcl_data.technologies.title.tools*: #cmn_data.technologies.body.tools
 - *#lcl_data.technologies.title.langs*: #lcl_data.technologies.body.langs
