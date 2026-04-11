@@ -5,10 +5,11 @@
             "backend_frameworks": "Backend frameworks"
         },
         "body": {
-            "prog_langs": "Python, JavaScript, TypeScript, HTML/CSS, C, C++, SQL.",
-            "frontend_frameworks": "Expo, React Native, React, Next.js, Tailwind.",
-            "backend_frameworks": "Nest.js, Spring Boot, FastAPI, LangChain.",
-            "tools": "Git, GitHub Actions, Docker, Terraform, VS Code, Figma, PostgreSQL."
+            "languages": "Python, TypeScript, Java, C#",
+            "backend": "Spring Boot, .NET, FastAPI, NestJS",
+            "frontend": "React, React Native (Expo), Next.js",
+            "infra": "AWS, Docker, Terraform, GitHub Actions",
+            "data": "PostgreSQL, MongoDB, SQLite"
         }
     }
 }
