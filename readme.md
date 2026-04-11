@@ -10,7 +10,13 @@ To compile the pdf, first you need to install [typst cli](https://github.com/typ
 
 ```bash
 # to compile the portuguese version
-typst compile curriculum.typ curriculum-pt.pdf
+make gen-pt
 # to compile the english version
-typst compile curriculum.typ curriculum-en.pdf --input locale=en
+make gen-en
+```
+
+To generate both versions at once, run:
+
+```bash
+make gen
 ```

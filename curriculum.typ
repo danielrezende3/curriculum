@@ -1,5 +1,5 @@
 // Loading data
-#let locale = sys.inputs.at("locale", default: "en")
+#let locale = sys.inputs.at("locale", default: "pt")
 #let lcl_data = json("data/" + locale + ".json")
 #let cmn_data = json("data/common.json")
 
