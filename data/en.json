@@ -20,14 +20,14 @@
                     "bullet_points": [
                         "Built a React Native (Expo) and Spring Boot mobile MVP for pilot launch, delivering five core flows (authentication, campaign creation, donations, donation history, and voucher creation/recovery), and automated 63 end-to-end regression scenarios for these flows using Maestro for UI automation and WireMock for API mocking, improving release stability and troubleshooting efficiency.",
                         "Eliminated the single point of failure in the payment flow, measured by maintaining ~99% availability during provider outages that previously blocked 100% of transactions, by designing a multi-provider integration with failover.",
-                        "Reduced deployment time by 75% (from 1 hour to 15 minutes), saving ~1.5 SWE/h per week across 2 weekly releases, by implementing CI/CD with GitHub Actions and Terraform-managed AWS infrastructure."
+                        "Reduced deployment time by 75%, from 1 hour to 15 minutes, saving ~1.5 SWE/h per week across 2 weekly releases, by implementing CI/CD with GitHub Actions and Terraform-managed AWS infrastructure."
                     ]
                 },
                 {
                     "role": "PIBIC Scientific Initiation Student, UFS",
                     "period": "July 2023 - August 2025",
                     "bullet_points": [
-                        "Built a plagiarism-detection benchmark dataset by scraping Codeforces problems and solutions via a custom Python pipeline with parsing and retry logic, addressing the lack of reliable validation data in the literature; assembled 500 solutions to distinct problems and generated obfuscated variants.",
+                        "Built a plagiarism-detection benchmark dataset by scraping Codeforces problems and solutions via a custom Python pipeline with parsing and retry logic, addressing the lack of reliable validation data in the literature, assembling 500 solutions to distinct problems and generated obfuscated variants.",
                         "Implemented a Python-based Tree-sitter converter to generate reversible syntax-tree JSON representations for automated code comparison, achieving same-language plagiarism-detection F1-scores of 86.36% for Python and 68.63% for C using the dataset."
                     ]
                 }
@@ -47,7 +47,7 @@
                     "role": "SBC Programming Marathon Coaching",
                     "period": "July 2025 - present",
                     "bullet_points": [
-                        "Achieved 280th place out of 984 teams in the SBC 2025 Programming Marathon (first phase) by coaching the team through training and qualification."
+                        "Achieved 280th place out of 984 teams in the SBC 2025 Programming Marathon (first phase) by coaching the team through structured problem-solving sessions, contest simulations, and targeted practice on algorithmic weaknesses."
                     ]
                 }
             ]

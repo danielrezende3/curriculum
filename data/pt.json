@@ -27,7 +27,7 @@
                     "role": "Iniciante científico PIBIC, UFS",
                     "period": "Julho 2023 - Agosto 2025",
                     "bullet_points": [
-                        "Construí um dataset de benchmark para detecção de plágio ao extrair problemas e soluções do Codeforces via um pipeline em Python com parsing e lógica de retry, suprindo a falta de dados confiáveis para validação na literatura; reuni 500 soluções de problemas distintos e gerei variantes ofuscadas.",
+                        "Construí um dataset de benchmark para detecção de plágio ao extrair problemas e soluções do Codeforces via um pipeline em Python com parsing e lógica de retry, suprindo a falta de dados confiáveis para validação na literatura, reuni 500 soluções de problemas distintos e gerei variantes ofuscadas.",
                         "Implementei um conversor em Python baseado em Tree-sitter para gerar representações JSON reversíveis da AST's para comparação automática de código, alcançando F1-score de 86,36% para Python e 68,63% para C na detecção de plágio na mesma linguagem usando o dataset."
                     ]
                 }
@@ -47,7 +47,7 @@
                     "role": "Treinamento para Maratona de Programação SBC",
                     "period": "Julho de 2025 - presente",
                     "bullet_points": [
-                        "Alcancei a 63ª posição entre 984 equipes na final da Maratona de Programação SBC 2025 ao orientar o time durante o treinamento e a qualificação."
+                        "Alcancei a 280ª posição entre 984 equipes na Maratona de Programação SBC 2025 (primeira fase) ao treinar a equipe por meio de sessões estruturadas de resolução de problemas, simulações de competições e prática direcionada em pontos fracos de algoritmos."
                     ]
                 }
             ]
