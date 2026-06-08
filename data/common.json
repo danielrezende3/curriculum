@@ -8,8 +8,8 @@
             "languages": "Python, TypeScript, Java, C#",
             "backend": "Spring Boot, .NET, FastAPI, NestJS",
             "frontend": "React, React Native (Expo), Next.js",
-            "infra": "AWS, Docker, Terraform, GitHub Actions",
-            "data": "PostgreSQL, MongoDB, SQLite"
+            "infra": "AWS (EC2, S3, RDS), Docker, Terraform, GitHub Actions",
+            "data": "PostgreSQL, MongoDB"
         }
     }
 }
